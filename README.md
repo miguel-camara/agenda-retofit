@@ -48,7 +48,7 @@ En caso de no existir nos redireccionara al Login.
 
 En caso de ingresar un correo o contraseña incorrectos nos lo indicara
 
-<p style = 'text-align:center;'><img src="https://github.com/miguel-camara/agenda-retofit/blob/main/6.png" alt="Login" width="200px"></p>
+<p style = 'text-align:center;'><img src="https://github.com/miguel-camara/agenda-retofit/blob/main/6.jpg" alt="Login" width="200px"></p>
 
 ## Agenda
 
@@ -71,7 +71,7 @@ Para agregar un evento es necesario seleccionar una **categoría**, **fecha** y 
 
 Al agregar el evento o agenda aparecerá en la pantalla principal.
 
-<p style = 'text-align:center;'><img src="https://github.com/miguel-camara/agenda-retofit/blob/main/9.png" alt="Cambios de agenda" width="200px"></p>
+<p style = 'text-align:center;'><img src="https://github.com/miguel-camara/agenda-retofit/blob/main/9.jpg" alt="Cambios de agenda" width="200px"></p>
 
 -------------------------------
 
@@ -96,7 +96,7 @@ En el caso de favoritos al dar clic sobre el icono este cambiara de **color** al
 
 Al dar clic en el evento que deseamos editar cambiara a la siguiente vista, en donde todos los cambios estarán llenos con la información con la cual guardamos el evento, podemos cambiar el valor de **uno** o **todos los campos.**
 
-<p style = 'text-align:center;'> <img src="https://github.com/miguel-camara/agenda-retofit/blob/main/12.png" alt="Editar Agenda" width="200px"> </p>
+<p style = 'text-align:center;'> <img src="https://github.com/miguel-camara/agenda-retofit/blob/main/12.jpg" alt="Editar Agenda" width="200px"> </p>
 
 -------------------------------
 
